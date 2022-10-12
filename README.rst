@@ -1,11 +1,13 @@
 ESP-IDF template app
 ====================
 
-This is a template application to be used with [Espressif IoT Development Framework](https://github.com/espressif/esp-idf).
+This is a template application to be used with `Espressif IoT Development Framework <https://github.com/espressif/esp-idf>`_.
 
 Please check `ESP-IDF docs <https://docs.espressif.com/projects/esp-idf/en/latest/get-started/index.html>`_ for getting started instructions.
 
-.. note:: This is a fork of `espressif/esp-idf-template <https://github.com/espressif/esp-idf-template>`_ with a devcontainer added. 
+This is a fork of `espressif/esp-idf-template <https://github.com/espressif/esp-idf-template>`_ with a devcontainer added. 
+
+|
 
 *Code in this repository is in the Public Domain (or CC0 licensed, at your option.)
 Unless required by applicable law or agreed to in writing, this
